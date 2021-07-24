@@ -1,0 +1,16 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:freecracy/d.git",
+  "author": "freecracy <12114073+freecracy@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.22",
+    "vuepress-vite": "^2.0.0-beta.22"
+  }
+}
