@@ -9,7 +9,7 @@ let navbar = [
 	},
 ];
 
-let sidebar = list("./docs/").reverse();
+let sidebar = list("./docs/");
 
 export default defineUserConfig<DefaultThemeOptions>({
 	base: "/d/",
@@ -34,6 +34,5 @@ function list(p: string): string[] {
 			s.push("/" + file.toString());
 		}
 	}
-	console.log(s);
 	return s;
 }
