@@ -17,7 +17,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 	title: "daily",
 	description: "just a little",
 	themeConfig: {
-		logo: "ttps://www.google.com.hk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+		logo: "https://www.google.com.hk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
 		navbar,
 		sidebar,
 		lastUpdatedText: "最近更新",
