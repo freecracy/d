@@ -1,0 +1,1 @@
+const e={key:"v-0fd99266",path:"/2022%E5%B9%B401%E6%9C%8807%E6%97%A5.html",title:"2022\u5E7401\u670807\u65E5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5934\u6761",slug:"\u5934\u6761",children:[]},{level:2,title:"code",slug:"code",children:[]}],git:{updatedTime:1641568868e3},filePathRelative:"2022\u5E7401\u670807\u65E5.md"};export{e as data};
